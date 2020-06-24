@@ -4,10 +4,9 @@
   }
   hr{
     border-style: dotted none none none;
-    border-width: 15px;
+    border-width: 5px;
     border-radius: 100;
     height: 0;
-    width: 10%;
   }
 
 h1{
@@ -18,4 +17,20 @@ h2{
 }
 h3{
   color: #ffd3b6;
+  text-align: center;
+}
+
+table {
+  margin: auto;
+  margin-bottom: 2%
+}
+
+ul {
+  width: 10%;
+  margin:auto;
+  margin-bottom: 2%;
+}
+
+a:hover{
+  color: white;
 }
